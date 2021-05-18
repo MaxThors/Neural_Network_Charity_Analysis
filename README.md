@@ -23,4 +23,20 @@ The purpose of this analysis was to look at historical charity data and see if w
   * Third attempt
     * Decreased epochs to 75
     * Third hidden layer with 40 neurons
+ #### Were you able to achieve the target model performance?
+ * No we were not. Here are the results below:
+ * First Attempt
+![](Resources/attempt_1.PNG)
+ * Second Attempt
+![](Resources/attempt_2.PNG)
+* Third Attempt
+![](Resources/attempt_3.PNG)
+
+#### What steps did you take to try and increase model performance?
+* As stated above, I tried a couple ways to increase the performance of the model and I was not quite able to.
+
+## Summary
+I would recommend a Supervised Machine Learning model in the future because we know what the output should and that is whether or not the charity will be successful. 
+
+
 
